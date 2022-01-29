@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Gwendolyn:wght@700&family=Meow+Script&family=Montserrat:wght@200&family=Playfair+Display:ital,wght@0,400;1,700&family=Poppins:wght@200&family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Gwendolyn:wght@700&family=Meow+Script&family=Merriweather:ital,wght@1,300&family=Montserrat:wght@200&family=Playfair+Display:ital,wght@0,400;1,700&family=Poppins:wght@200&family=Raleway:wght@200;300&display=swap');
+.form {
+    margin: 50px;
+    padding: 50px;
+    height: auto;
+    width: 25rem;
+    border-radius: 5%;
+    background-color: rgba(91, 177, 182, 0.1)
+}
+
+.navbar-brand {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+}
+
+.Angebot {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    color: chartreuse;
+    border-radius: 15%;
+}
+
+.naver {
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    color: #00FF00;
+}
+
+.img-fluid {
+    background-color: black;
+}
+
+.note {
+    padding: -10px;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: rgb(133, 31, 31);
+}
+
+h1 {
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.Bienv {
+    margin: 40px;
+    padding: 100px;
+    height: 1000px;
+    max-width: 100%;
+}
+
+.logouts {
+    height: 300px;
+    width: 700px;
+}
+
+.lang {
+    padding: 30px;
+    margin: 30px;
+}
+
+.map {
+    box-sizing: 10px;
+}
+
+.bien {
+    padding: 70px;
+    margin: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+}
+
+.bien1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.accordion {
+    margin: 80px;
+    padding: 80px;
+}
+
+.garage {
+    height: 50px;
+    width: 80px;
+}
+
+.wary {
+    padding: 80px;
+    margin: 100px;
+}
+
+.big-img {
+    /* The image used */
+    background-image: url("eco-pic.jpg");
+    min-height: 100px;
+    width: 1200px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Needed to position the navbar */
+    position: relative;
+}
+
+.nav-item1 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
